@@ -1,0 +1,25 @@
+{
+  "name": "blog-party-usa",
+  "version": "1.0.0",
+  "description": "An introduction to mongoDB, node and express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjlew/blog-party-usa.git"
+  },
+  "author": "cjlew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjlew/blog-party-usa/issues"
+  },
+  "homepage": "https://github.com/cjlew/blog-party-usa#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.12"
+  }
+}
